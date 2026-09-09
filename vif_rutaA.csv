@@ -1,0 +1,19 @@
+Variable,VIF,Interpretacion
+day_of_year,21699.344082062922,colinealidad severa
+month,21548.63640707874,colinealidad severa
+day,175.19942627592908,colinealidad severa
+Wind_avg,67.20491170116293,colinealidad severa
+Wind_max,64.22984980357073,colinealidad severa
+Temp_max_avg,62.02341545593298,colinealidad severa
+Temp_max_max,44.614416882326466,colinealidad severa
+Humidity_avg,22.878397070264462,colinealidad severa
+Humidity_min,15.476471446302805,colinealidad severa
+longitude,4.305979222529566,aceptable
+NDVI,3.4204413753443124,aceptable
+EVI,3.3936426708033895,aceptable
+Precip_total,2.885132305426933,aceptable
+Is_dry_season,1.8613067470213536,aceptable
+latitude,1.71095085076413,aceptable
+Days_no_rain,1.5847965284547725,aceptable
+Temp_max,1.514748318342631,aceptable
+year,1.0439767624708323,aceptable
