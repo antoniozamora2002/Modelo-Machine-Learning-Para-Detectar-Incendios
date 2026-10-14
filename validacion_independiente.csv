@@ -1,0 +1,7 @@
+Esquema,Accuracy,F1,AUC,MCC
+Partición aleatoria 85/15,0.9197,0.8640,0.9681,0.8070
+Holdout temporal (con year),0.8649,0.7986,0.9330,0.6970
+Holdout temporal (sin year),0.8672,0.8046,0.9358,0.7041
+Origen móvil 2015-2024,0.8966 +/- 0.0252,0.8248 +/- 0.0459,0.9494 +/- 0.0143,0.7472 +/- 0.0519
+Bloques espaciales (con coords),0.8818 +/- 0.0371,0.7910 +/- 0.0507,0.9362 +/- 0.0211,0.7067 +/- 0.0566
+Bloques espaciales (sin coords),0.8566 +/- 0.0310,0.7505 +/- 0.0426,0.9193 +/- 0.0180,0.6518 +/- 0.0312
